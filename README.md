@@ -1,4 +1,3 @@
----
 # Covid-19 India Analysis
 
 ## Introduction
@@ -60,5 +59,3 @@ This project is licensed under the MIT License, allowing you to use, modify, and
 For questions or feedback, please contact: fardinkhan.data@gmail.com
 
 Enjoy exploring the project!
-
----
