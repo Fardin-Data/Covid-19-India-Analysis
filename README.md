@@ -1,5 +1,7 @@
+# Covid-19 India Analysis
+
 ## Introduction
-The COVID-19 pandemic has profoundly impacted public health. This project aims to provide valuable insights into the pandemic's progression in India, helping with decision-making and resource allocation.
+The COVID-19 pandemic has had a profound impact on public health, and understanding the data is crucial for decision-making and resource allocation. This project, assigned by our training institution "Masai" with a tight 7-day deadline, aims to provide valuable insights and create a data-driven dashboard to aid in understanding the pandemic's progression and its effects on different regions of India.
 
 ## Problem Statement
 - Extract COVID-19 data for India using Python and the `requests` module.
@@ -49,6 +51,6 @@ This project is licensed under the MIT License, allowing you to use, modify, and
 - [Vanshpal Singh](https://github.com/vanshpalsingh?tab=following)
 - [Vishwanath J](https://github.com/Vishwanath-J-25?tab=repositories)
 
-For questions or feedback, please contact: [fardinkhan.data@gmail.com]
+For questions or feedback, please contact: fardinkhan.data@gmail.com
 
 Enjoy exploring the project!
