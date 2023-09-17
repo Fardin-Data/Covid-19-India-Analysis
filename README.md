@@ -1,5 +1,3 @@
-![Screenshot 2023-09-09 155926](https://github.com/Fardin-Data/Covid-19-India-Analysis/assets/137788371/6410494e-2d51-43cd-869d-da49f1e32591)# COVID-19 India Analysis
-
 ## Introduction
 The COVID-19 pandemic has profoundly impacted public health. This project aims to provide valuable insights into the pandemic's progression in India, helping with decision-making and resource allocation.
 
