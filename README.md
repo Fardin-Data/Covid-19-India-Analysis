@@ -22,17 +22,19 @@ The COVID-19 pandemic has had a profound impact on public health, and understand
 - It includes various filters for exploring different scenarios.
 
 ## Files Information
-- **Dashboard**: Excel file with sheets for state data, district data, pivot tables, and the dashboard.
-- **TimeSeries_Data**: Cleaned time series data exported from the web server after EDA.
-- **District_Data**: Cleaned district data exported from the web server after EDA.
-- **Python Codes**: Contains codes used to extract, clean, and prepare data for analysis.
-- **SQL Queries**: Contains SQL queries used for aggregation and creating tables for analysis and dashboard.
+- **Dashboard:** Excel file with sheets for state data, district data, pivot tables, and the dashboard.
+- **TimeSeries_Data:** Cleaned time series data exported from the web server after EDA.
+- **District_Data:** Cleaned district data exported from the web server after EDA.
+- **Python Codes:** Contains codes used to extract, clean, and prepare data for analysis.
+- **SQL Queries:** Contains SQL queries used for aggregation and creating tables for analysis and dashboard.
 
 ## Tech Stack
-- Python: Data extraction and EDA
-- SQL: Aggregation for table creation
-- Excel: Dashboard creation and data presentation
-- Power Query: Minor data adjustments
+- **Python:** Data extraction and EDA
+- **MySQL:** Aggregation for table creation
+- **Excel:** Dashboard creation and data presentation
+- **Power Query:** Minor data adjustments
+- **API:** Used API As a Data Source
+- **Jupyter Notebook:** Used Jupyter as IDE
 
 ## Data Sources
 - [District Data](https://data.covid19india.org/v4/min/data.min.json)
