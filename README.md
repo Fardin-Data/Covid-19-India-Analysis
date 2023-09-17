@@ -18,15 +18,15 @@ The COVID-19 pandemic has had a profound impact on public health, and understand
 
 ![Screenshot 2023-09-09 183418](https://github.com/Fardin-Data/Covid-19-India-Analysis/assets/137788371/5bf87ed5-aa93-42f9-9ea8-690a88dd5c5b)
 
-
 - The dashboard offers two views (state and district), allowing users to switch between them using bookmarks. 
 - It includes various filters for exploring different scenarios.
 
 ## Files Information
-- **Project Presentation**: Link to Project Presentation
 - **Dashboard**: Excel file with sheets for state data, district data, pivot tables, and the dashboard.
 - **TimeSeries_Data**: Cleaned time series data exported from the web server after EDA.
 - **District_Data**: Cleaned district data exported from the web server after EDA.
+- **Python Codes**: Contains codes used to extract, clean, and prepare data for analysis.
+- **SQL Queries**: Contains SQL queries used for aggregation and creating tables for analysis and dashboard.
 
 ## Tech Stack
 - Python: Data extraction and EDA
@@ -42,14 +42,17 @@ The COVID-19 pandemic has had a profound impact on public health, and understand
 - [District Data Documentation](https://data.covid19india.org/documentation/v4_data.html)
 - [Time Series Data Documentation](https://data.covid19india.org/documentation/timeseries.min.html)
 
-## License
-This project is licensed under the MIT License, allowing you to use, modify, and distribute the code and visuals while maintaining the original license terms.
+## Project Presentation
+- [View Project Presentation](https://www.canva.com/design/DAFt2HnMon8/pphQziAJYXAQuC90RBRqMw/view?utm_content=DAFt2HnMon8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#3)
 
 ## Team Members
 - [Fardin khan](https://github.com/Fardin-Data)
 - [Sachin Yadav](https://github.com/sachinyadav22)
 - [Vanshpal Singh](https://github.com/vanshpalsingh?tab=following)
 - [Vishwanath J](https://github.com/Vishwanath-J-25?tab=repositories)
+
+## License
+This project is licensed under the MIT License, allowing you to use, modify, and distribute the code and visuals while maintaining the original license terms.
 
 For questions or feedback, please contact: fardinkhan.data@gmail.com
 
