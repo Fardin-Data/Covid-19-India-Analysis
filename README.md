@@ -141,6 +141,48 @@ Developed a dynamic Excel dashboard for effective data presentation. The dashboa
 - **Python Codes:** Contains codes used to extract, clean, and prepare data for analysis.
 - **SQL Queries:** Contains SQL queries used for aggregation and creating tables for analysis and dashboard.
 
+
+## Challenges Faced
+
+`Data Extraction` 
+
+We initially faced difficulties in getting data from the server, but we persevered and figured it out.
+
+`Data Cleanup` 
+
+Dealing with messy data, including missing values and confusing entries, was a challenge. We brainstormed and tried different methods to clean it up and make it useful.
+
+`Data Visualization` 
+
+Visualizing the data in a way that answered the project's questions was tough. We had to think creatively and work as a team to present the data effectively.
+
+`Time Management`
+
+Meeting project deadlines required good time management skills, and we learned to prioritize tasks efficiently.
+
+## Learnings
+
+`Persistence` 
+
+We learned to keep trying when faced with data extraction problems.
+
+`Data Cleaning` 
+
+We improved our skills in making messy data useful through experimentation.
+
+`Creative Problem-Solving` 
+
+We found creative ways to visualize complex data through teamwork.
+
+`Teamwork and Communication` 
+
+Working with diverse viewpoints improved our communication and collaboration skills.
+
+`Time Management`
+
+Efficiently managing our time became crucial to meet project deadlines.
+
+
 ## Tech Stack
 - **Python:** Data extraction and EDA
 - **MySQL:** Aggregation for table creation
@@ -149,16 +191,20 @@ Developed a dynamic Excel dashboard for effective data presentation. The dashboa
 - **API:** Used API As a Data Source
 - **Jupyter Notebook:** Used Jupyter as IDE
 
+
 ## Data Sources
 - [District Data](https://data.covid19india.org/v4/min/data.min.json)
 - [Time Series Data](https://data.covid19india.org/v4/min/timeseries.min.json)
+
 
 ## Data Info
 - [District Data Documentation](https://data.covid19india.org/documentation/v4_data.html)
 - [Time Series Data Documentation](https://data.covid19india.org/documentation/timeseries.min.html)
 
+
 ## Project Presentation
 - [View Project Presentation](https://www.canva.com/design/DAFt2HnMon8/pphQziAJYXAQuC90RBRqMw/view?utm_content=DAFt2HnMon8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#3)
+
 
 ## Team Members
 - [Fardin khan](https://github.com/Fardin-Data)
@@ -168,6 +214,8 @@ Developed a dynamic Excel dashboard for effective data presentation. The dashboa
 
 ## License
 This project is licensed under the MIT License, allowing you to use, modify, and distribute the code and visuals while maintaining the original license terms.
+
+---
 
 For questions or feedback, please contact: fardinkhan.data@gmail.com
 
