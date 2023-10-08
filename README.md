@@ -188,12 +188,12 @@ Efficiently managing our time became crucial to meet project deadlines.
 
 
 ## Tech Stack
-- **Python:** Data extraction and EDA
-- **MySQL:** Aggregation for table creation
-- **Excel:** Dashboard creation and data presentation
-- **Power Query:** Minor data adjustments
-- **API:** Used API As a Data Source
-- **Jupyter Notebook:** Used Jupyter as IDE
+- `Python` Data extraction and EDA
+- `MySQL` Aggregation for table creation
+- `Excel` Dashboard creation and data presentation
+- `Power Query` Minor data adjustments
+- `API` Used API As a Data Source
+- `Jupyter Notebook` Used Jupyter as IDE
 
 
 ## Data Sources
