@@ -7,7 +7,7 @@
 - [Process](#Process)
 - [Dashboard](#Dashboard)
 - [Insights](#Insights)
-- [Challenges Faced](#Challenges Faced)
+- [Challenges Faced](#Challenges-Faced)
 - [Learnings](#Learnings)
 - [Files Information](Files-Information)
 - [Data Sources](Database-Schema)
