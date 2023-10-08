@@ -10,7 +10,7 @@
 - [Challenges Faced](#Challenges-Faced)
 - [Learnings](#Learnings)
 - [Files Information](#Files-Information)
-- [Data Source](#Data-Source)
+- [Data Sources](#Data-Sources)
 - [Data Info](#Data-Info)
 - [Tech Stack](#Tech-Stack)
 - [Project Presentation](#Project-Presentation)
