@@ -9,11 +9,11 @@
 - [Insights](#Insights)
 - [Challenges Faced](#Challenges-Faced)
 - [Learnings](#Learnings)
-- [Files Information](Files-Information)
-- [Data Sources](Database-Schema)
+- [Files Information](#Files-Information)
+- [Data Sources](#Data-Source)
 - [Data Info](#Data-Info)
 - [Tech Stack](#Tech-Stack)
-- [Project Presentation](Project-Presentation)
+- [Project Presentation](#Project-Presentation)
 - [Team Members](#Team-Members)
 
 ## Introduction
