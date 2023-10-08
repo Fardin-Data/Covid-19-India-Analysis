@@ -128,18 +128,25 @@ Developed a dynamic Excel dashboard for effective data presentation. The dashboa
 
 ![Screenshot 2023-09-09 183418](https://github.com/Fardin-Data/Covid-19-India-Analysis/assets/137788371/5bf87ed5-aa93-42f9-9ea8-690a88dd5c5b)
 
-## Files Information
-`Result`
+Certainly, here are your key findings rephrased for inclusion in your project description:
 
-- **Dashboard:** Excel file with sheets for state data, district data, pivot tables, and the dashboard.
+## Key Insights
 
-`Data`
-- **TimeSeries_Data:** Cleaned time series data exported from the web server after EDA.
-- **District_Data:** Cleaned district data exported from the web server after EDA.
+`Monthly Trend Analysis`
 
-`Code`
-- **Python Codes:** Contains codes used to extract, clean, and prepare data for analysis.
-- **SQL Queries:** Contains SQL queries used for aggregation and creating tables for analysis and dashboard.
+A consistent monthly trend emerged in each year, with a significant surge in confirmed cases observed in May. Prior to May, cases remained relatively low, gradually increasing. However, May saw an exponential rise in confirmed cases.
+
+`Testing Ratio Impact`
+
+Districts exhibiting the lowest testing ratios tended to experience higher numbers of cases and deaths. This suggests a potential correlation between testing efforts and case outcomes.
+
+`Population Density Effect`
+
+States with higher population density, such as Maharashtra, tended to report more cases and deaths. In contrast, regions with lower population density, like Lakshadweep, recorded the lowest numbers of confirmed cases.
+
+`Seven-Day Moving Average`
+
+An analysis of the seven-day moving average of confirmed cases revealed Kerala as a standout, demonstrating a substantial difference compared to other states. This indicates unique trends in the disease's progression in Kerala.
 
 
 ## Challenges Faced
@@ -181,6 +188,20 @@ Working with diverse viewpoints improved our communication and collaboration ski
 `Time Management`
 
 Efficiently managing our time became crucial to meet project deadlines.
+
+
+## Files Information
+`Result`
+
+- **Dashboard:** Excel file with sheets for state data, district data, pivot tables, and the dashboard.
+
+`Data`
+- **TimeSeries_Data:** Cleaned time series data exported from the web server after EDA.
+- **District_Data:** Cleaned district data exported from the web server after EDA.
+
+`Code`
+- **Python Codes:** Contains codes used to extract, clean, and prepare data for analysis.
+- **SQL Queries:** Contains SQL queries used for aggregation and creating tables for analysis and dashboard.
 
 
 ## Tech Stack
