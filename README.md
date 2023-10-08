@@ -6,7 +6,7 @@
 - [Problem Statement](#Problem-Statement)
 - [Process](#Process)
 - [Dashboard](#Dashboard)
-- [Insights](#Insights)
+- [Key Insights](#Key-Insights)
 - [Challenges Faced](#Challenges-Faced)
 - [Learnings](#Learnings)
 - [Files Information](#Files-Information)
