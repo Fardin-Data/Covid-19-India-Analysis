@@ -128,7 +128,6 @@ Developed a dynamic Excel dashboard for effective data presentation. The dashboa
 
 ![Screenshot 2023-09-09 183418](https://github.com/Fardin-Data/Covid-19-India-Analysis/assets/137788371/5bf87ed5-aa93-42f9-9ea8-690a88dd5c5b)
 
-Certainly, here are your key findings rephrased for inclusion in your project description:
 
 ## Key Insights
 
